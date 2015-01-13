@@ -1,0 +1,2 @@
+2015-01-05 16:08:53.000 hdbbackupdiag called with -v -d /backup/orginal/data/ -b COMPLETE_DATA_BACKUP
+2015-01-05 16:08:58.000 hdbbackupdiag exits with 0
